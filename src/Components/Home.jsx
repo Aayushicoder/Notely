@@ -51,13 +51,13 @@ const Home = () => {
                 Save, share, and manage your pastes securely with Notely.
             </p>
 
-            {/* CTA Button */}
+            {/* 
             <a
                 href="/pastes"
                 className="mt-6 px-8 py-3 bg-blue-500 text-lg font-semibold rounded-lg shadow-md hover:bg-blue-600 transition duration-300 transform hover:scale-105"
             >
                 Get Started →
-            </a>
+            </a>   */}
 
             {/* Paste Creation Section */}
             <div className='text-blue-400 mt-10 w-full max-w-3xl'>
